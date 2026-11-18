@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Elections",
+    "title": "2026 North Carolina U.S. Senate Election Results",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "According to historical election results published by the North Carolina State Board of Elections (NCSBE), voters across all 100 North Carolina counties cast ballots in the November 3, 2026 U.S. Senate election.\nHover over any county on the interactive map below to inspect vote totals, candidate vote shares, and the percentage-point margin.\n\n\n\n\n\n\nData source: North Carolina State Board of Elections — Historical Election Results Data (November 3, 2026 precinct results file)."
   },
   {
     "objectID": "about.html",
